@@ -1,0 +1,6 @@
+@CHARSET "UTF-8";
+
+#text-right{
+	display: line-block;
+	text-align: right;
+}
